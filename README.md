@@ -1,2 +1,2 @@
 # ranggaranubaya.github.io
-hello there
+peyok sayang laylatul qodr
