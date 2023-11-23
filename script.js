@@ -19,7 +19,6 @@ $(document).ready(function(){
                 scrollTop: $($(this).attr('href')).offset().top,
             }, 500, 'linear');
         });
-    });
-    
+    });    
 
 });
